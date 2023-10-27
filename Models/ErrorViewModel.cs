@@ -1,4 +1,4 @@
-namespace Rivera_Mauricio_ASPCore_EDojVa.Models;
+namespace EDojVa.Models;
 
 public class ErrorViewModel
 {

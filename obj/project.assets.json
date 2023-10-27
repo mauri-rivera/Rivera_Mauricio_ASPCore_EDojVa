@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\Rivera_Mauricio_ASPCore_EDojVa.csproj",
-      "projectName": "Rivera_Mauricio_ASPCore_EDojVa",
-      "projectPath": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\Rivera_Mauricio_ASPCore_EDojVa.csproj",
+      "projectUniqueName": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\EDojVa.csproj",
+      "projectName": "EDojVa",
+      "projectPath": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\EDojVa.csproj",
       "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\obj\\",
       "projectStyle": "PackageReference",

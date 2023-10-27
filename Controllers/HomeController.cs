@@ -2,10 +2,10 @@
 
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Rivera_Mauricio_ASPCore_EDojVa.Models;
+using EDojVa.Models;
 using Microsoft.AspNetCore.Routing.Patterns;
 
-namespace Rivera_Mauricio_ASPCore_EDojVa.Controllers;
+namespace EDojVa.Controllers;
 
 public class HomeController : Controller
 {

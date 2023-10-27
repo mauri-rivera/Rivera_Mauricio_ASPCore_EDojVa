@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Rivera_Mauricio_ASPCore_EDojVa.Models
+namespace EDojVa.Models
 {
     public class Usuario
     {

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Rivera_Mauricio_ASPCore_EDojVa.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Rivera_Mauricio_ASPCore_EDojVa.bundle.scp.css"
+      "Id": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EDojVa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EDojVa.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\mauri\\OneDrive\\Documentos\\SONDA-CODINGDOJO\\Bootcamp CSharp-.NET\\Ejercicios Fundamentos de la Web\\Semana 7\\Cores\\Core 27\\Rivera_Mauricio_ASPCore_EDojVa\\wwwroot\\css\\site.css",
@@ -249,20 +249,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Rivera_Mauricio_ASPCore_EDojVa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EDojVa.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Rivera_Mauricio_ASPCore_EDojVa.props",
-      "PackagePath": "build\\Rivera_Mauricio_ASPCore_EDojVa.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EDojVa.props",
+      "PackagePath": "build\\EDojVa.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Rivera_Mauricio_ASPCore_EDojVa.props",
-      "PackagePath": "buildMultiTargeting\\Rivera_Mauricio_ASPCore_EDojVa.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EDojVa.props",
+      "PackagePath": "buildMultiTargeting\\EDojVa.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Rivera_Mauricio_ASPCore_EDojVa.props",
-      "PackagePath": "buildTransitive\\Rivera_Mauricio_ASPCore_EDojVa.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EDojVa.props",
+      "PackagePath": "buildTransitive\\EDojVa.props"
     }
   ],
   "ElementsToRemove": []
