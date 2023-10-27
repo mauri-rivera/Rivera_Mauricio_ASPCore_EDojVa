@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rivera_Mauricio_ASPCore_EDojVa.props" />
+</Project>

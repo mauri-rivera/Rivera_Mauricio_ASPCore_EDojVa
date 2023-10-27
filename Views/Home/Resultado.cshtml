@@ -1,0 +1,40 @@
+@model Usuario
+
+<div class=formularioUsuario>
+    <h1>Submitted Info</h1>
+    <form asp-action="Resultado" asp-controller="Home" method="GET">
+        <div class="posicionColumna">
+            <div class="columna">
+                <div class="datoPersonal">
+                    <label asp-for="Nombre" class="estiloLabel">Your Name:</label>
+                </div>
+                <div class="datoPersonal">
+                    <label asp-for="Ubicacion" class="estiloLabel">Dojo Location:</label>
+                </div>
+                <div class="datoPersonal">
+                    <label asp-for="Lenguaje" class="estiloLabel">Favorite Language:</label>
+                </div>
+                <div class="datoPersonal">
+                    <label asp-for="Comentario" class="estiloLabel">Comment:</label>
+                </div>
+            </div>
+            <div class="columna">
+                <div class="datoPersonal">
+                    <span asp-for="Nombre" class="estiloLabel">@Model.Nombre</span>
+                </div>
+                <div class="datoPersonal">
+                    <span asp-for="Ubicacion" class="estiloLabel">@Model.Ubicacion</span>
+                </div>
+                <div class="datoPersonal">
+                    <span asp-for="Lenguaje" class="estiloLabel">@Model.Lenguaje</span>
+                </div>
+                <div class="datoPersonal">
+                    <span asp-for="Comentario" class="estiloLabel">@Model.Comentario</span>
+                </div>
+            </div>
+        </div>
+        <div class="botonRegreso">
+            <button formmethod="POST" formaction="">Go Back</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,43 @@
+@model Usuario
+
+<div class=formularioUsuario>
+    <form asp-action="Index" asp-controller="Home" method="POST">
+        <div class="datoPersonal">
+            <label asp-for="Nombre" class="estiloLabel">Your Name:</label>
+            <div class=cuadroDatos>
+                <input asp-for="Nombre" class=cuadroTexto>
+                <span asp-validation-for="Nombre"></span>
+            </div>
+        </div>
+        <div class="datoPersonal">
+            <label asp-for="Ubicacion" class="estiloLabel">Dojo Location:</label>
+            <select asp-for="Ubicacion" class=cuadroSelector>
+                @{
+                    foreach (string ciudad in ViewBag.Localizacion)
+                    {
+                        <option class="letra">@ciudad</option>
+                    }
+                }
+            </select>
+        </div>
+        <div class="datoPersonal">
+            <label asp-for="Lenguaje" class="estiloLabel">Favorite Language:</label>
+            <select asp-for="Lenguaje" class=cuadroSelector>
+                @{
+                    @foreach (string lenguaje in ViewBag.Lenguajes)
+                    {
+                        <option class="letra">@lenguaje</option>
+                    }
+                }
+            </select>
+        </div>
+        <div class=datoComentario>
+            <label asp-for="Comentario" class="estiloLabel">Comment (optional):</label>
+            <textarea asp-for="Comentario" class="cuadroComentario"></textarea>
+            <span asp-validation-for="Comentario"></span>
+        </div>
+        <div class="botonEnvio">
+            <button>Submit</button>
+        </div>
+    </form>
+</div>
